@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Darepen/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/huh.gif" alt="HUH" width="130" height="auto">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Final Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  A comprehensive portfolio showcasing my web development skills and projects.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Darepen/WD-Finals)
 
 ---
 
@@ -59,24 +59,33 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
+### Guiding Question:
 - What is the project
+  - This project is a personal portfolio website designed to showcase my web development skills and past projects.
 - Whats the purpose
+  - The purpose of this project is to create a professional and functional online portfolio that highlights my abilities, projects, and experience.
 - What are key components
+  - The key components include a home page, an about me page, a projects showcase, a contact page, and a blog page.
 - What technology used and how it is used
+  - The website is built using HTML, CSS, and JavaScript. External libraries like Bootstrap, Font Awesome, and Google Fonts are used for styling and functionality.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Unique Layouts for Each Page
+- Project Showcase with Descriptions and Links
+- Resume
+- Certifications
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -90,7 +99,7 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD-Finals
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -99,7 +108,52 @@ WD-ProjectName
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
+|  └─ resume
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ projects
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ about me
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ certifications
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ bonus points
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ Feedback
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
@@ -117,4 +171,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+| GitHub Pages Documentation | Guide to deploying websites using GitHub Pages | https://docs.github.com/en/pages |
+| Bootstrap Documentation | Reference for Bootstrap components and styling | https://getbootstrap.com/docs/5.1/getting-started/introduction/ |
+| Font Awesome Icons | Collection of icons for use in web projects | https://fontawesome.com/icons |
+| W3Schools HTML Tutorial | Comprehensive HTML tutorial | https://www.w3schools.com/html/ |
+| MDN Web Docs | Documentation for web technologies, including HTML, CSS, and JavaScript | https://developer.mozilla.org/en-US/ |
