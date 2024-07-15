@@ -108,15 +108,6 @@ WD-Finals
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ resume
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ style.css
-|     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
-|     └─ index.html
 |  └─ projects
 |     └─ assets
 |     |  └─ css
