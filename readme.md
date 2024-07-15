@@ -126,7 +126,7 @@ WD-Finals
 |     |  └─ js
 |     |     └─ script.js
 |     └─ index.html
-|  └─ about me
+|  └─ about-me
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
@@ -144,7 +144,7 @@ WD-Finals
 |     |  └─ js
 |     |     └─ script.js
 |     └─ index.html
-|  └─ bonus points
+|  └─ bonus-points
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
@@ -153,7 +153,7 @@ WD-Finals
 |     |  └─ js
 |     |     └─ script.js
 |     └─ index.html
-|  └─ Feedback
+|  └─ feedback
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
