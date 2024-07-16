@@ -169,6 +169,7 @@ WD-Finals
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
+|How TO - Slideshow |Learned how to create a responsive slideshow with CSS and JS|https://www.w3schools.com/howto/howto_js_slideshow.asp|
  GitHub Pages Documentation | Guide to deploying websites using GitHub Pages | https://docs.github.com/en/pages |
 | W3Schools HTML Tutorial | Comprehensive HTML tutorial | https://www.w3schools.com/html/ |
 | MDN Web Docs | Documentation for web technologies, including HTML, CSS, and JavaScript | https://developer.mozilla.org/en-US/ |
