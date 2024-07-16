@@ -169,9 +169,6 @@ WD-Finals
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-
-| GitHub Pages Documentation | Guide to deploying websites using GitHub Pages | https://docs.github.com/en/pages |
-| Bootstrap Documentation | Reference for Bootstrap components and styling | https://getbootstrap.com/docs/5.1/getting-started/introduction/ |
-| Font Awesome Icons | Collection of icons for use in web projects | https://fontawesome.com/icons |
+ GitHub Pages Documentation | Guide to deploying websites using GitHub Pages | https://docs.github.com/en/pages |
 | W3Schools HTML Tutorial | Comprehensive HTML tutorial | https://www.w3schools.com/html/ |
 | MDN Web Docs | Documentation for web technologies, including HTML, CSS, and JavaScript | https://developer.mozilla.org/en-US/ |
