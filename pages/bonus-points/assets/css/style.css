@@ -46,36 +46,6 @@ header ul li a {
     text-align: center;
 }
 
-.carousel {
-    position: relative;
-    max-width: 600px;
-    margin: auto;
-    overflow: hidden;
-}
-
-.carousel-images {
-    display: flex;
-    transition: transform 0.5s ease-in-out;
-}
-
-.carousel-item {
-    min-width: 100%;
-    box-sizing: border-box;
-    text-align: center;
-}
-
-.carousel-item img {
-    width: 80%; /* Adjust this value to make the images smaller */
-    max-width: 300px; /* Limit the maximum width */
-    border-radius: 5px;
-}
-
-.carousel-item p {
-    margin-top: 10px;
-    font-size: 16px;
-    color: #333;
-}
-
 .prev, .next {
     cursor: pointer;
     position: absolute;
@@ -92,11 +62,15 @@ header ul li a {
 
 .next {
     right: 0;
+    background: #a1a1a1;
+    opacity: 0.7;
     border-radius: 3px 0 0 3px;
 }
 
 .prev {
     left: 0;
+    background: #a1a1a1;
+    opacity: 0.7;
     border-radius: 0 3px 3px 0;
 }
 
@@ -106,7 +80,7 @@ header ul li a {
 
 /* Slideshow specific styles */
 .slideshow-container {
-    max-width: 1000px;
+    max-width: 300px;
     position: relative;
     margin: auto;
 }
@@ -155,7 +129,7 @@ header ul li a {
 
 @keyframes fade {
     from {
-        opacity: .4;
+        opacity: .2;
     }
     to {
         opacity: 1;
