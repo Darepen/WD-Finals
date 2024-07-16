@@ -65,9 +65,9 @@ Description of the project in details.
 - Whats the purpose
   - The purpose of this project is to create a professional and functional online portfolio that highlights my abilities, projects, and experience.
 - What are key components
-  - The key components include a home page, an about me page, a projects showcase, a contact page, and a blog page.
+  - The key components include a home page, an about me page, a projects showcase, a certifications page, and a feedback page.
 - What technology used and how it is used
-  - The website is built using HTML, CSS, and JavaScript. External libraries like Bootstrap, Font Awesome, and Google Fonts are used for styling and functionality.
+  - The website is built using HTML, CSS, and JavaScript. An external library like Google Fonts is used for styling and functionality.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -122,7 +122,16 @@ WD-Finals
 |     |  └─ img
 |     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
 |     |  └─ js
-|     |     └─ script.js
+|     |  |  └─ script.js
+|     |  └─ resume-page
+|     |  |  └─ assets
+|     |  |     └─ css
+|     |  |     |  └─ style.css
+|     |  |     └─ img
+|     |  |     |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  |     └─ js
+|     |  |     |  └─ script.js
+|     |  └─ index.html
 |     └─ index.html
 |  └─ certifications
 |     └─ assets
