@@ -57,7 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This project is a comprehensive personal portfolio website created to highlight my web development skills using HTML, CSS, and JavaScript. It consists of six distinct pages: a landing page, a resume page, a projects page, an about me page, a certifications page, and a feedback page. Each page features unique design layouts and functionalities, demonstrating my proficiency in web design and development. The website is designed to be visually appealing, user-friendly, and professional, serving as a platform to attract potential employers, clients, or collaborators by showcasing my skills, experience, and projects. Technologies and libraries used include pure HTML for structuring content, CSS for styling and responsive design, JavaScript for minor interactivity and dynamic features, and Google Fonts for typography.
 
 ### Guiding Question:
 - What is the project
